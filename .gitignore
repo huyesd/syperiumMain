@@ -71,7 +71,7 @@ local hiddenUI = get_hidden_gui or gethui or function(a)return CoreGui end
 -- / Defaults 
 local OptionStates = {} -- Used for panic
 local library = {
-	title = "Syperium.gg",
+	title = "Syperium",
 	company = "Company",
 
 	RainbowEnabled = true,
